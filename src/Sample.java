@@ -1,9 +1,9 @@
 public class Sample {
-    //サンプルクラス
-    public String name;
+
+    public String title;
 
     Sample(String name) {
-        this.name = name;
+        this.title = name;
     }
 
 }
