@@ -1,5 +1,4 @@
 public class Sample {
-    //サンプルクラス
 
     public String title;
 
